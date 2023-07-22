@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 감정 일기 최종본 프로젝트
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
